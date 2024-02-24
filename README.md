@@ -1,4 +1,4 @@
-# Visualization project by Power BI
+# Visualization projects by Power BI
 
 Project Healthcare: https://app.powerbi.com/view?r=eyJrIjoiN2E4MWFlOTQtODEyNS00MjM2LWIwNGUtMzYwYmE3ZWFjMmJhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
